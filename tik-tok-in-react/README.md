@@ -1,4 +1,4 @@
-# TikTok with React :musical_note: :sparkles:
+# :collision: :metal: TikTok with React :musical_note: :sparkles:
 
 ## Game Hosted@ https://tik-tok-in-react.web.app/
 
