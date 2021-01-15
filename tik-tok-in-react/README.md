@@ -2,11 +2,13 @@
 
 ## App Hosted@Firebase https://tik-tok-in-react.web.app/
 
-## React
+## React and Tech Stack
 
 #### `npx create-react-app tik-tok-in-react`
 
-#### `npm install react-ticker` a react library that functions similar to HTML's `<marqee>`
+#### `npm install react-ticker`
+
+a react library that functions similar to HTML's `<marqee>`
 
 #### `npm install firebase`
 
@@ -14,7 +16,15 @@
 
 #### `npm install @material-ui/core`
 
+In a nutshell, Material-UI is an open-source project that features React components that implement Google's Material Design. ... With over 35,000 stars on GitHub, Material-UI is one of the top user interface libraries for React out there.
+
 #### `npm install @material-ui/icons`
+
+1100+ React Material icons ready to use from the official website
+
+## CSS
+
+#### `Hacks and flexbox`
 
 <!--
 

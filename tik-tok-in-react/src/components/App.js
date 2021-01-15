@@ -17,6 +17,10 @@ function App() {
     <div className="app">
       {/* BEM */}
       <div className="app_videos">
+        <div class="camera">
+          <div className="lense1"></div>
+          <div className="lense2"></div>
+        </div>
         {videos.map(
           ({ url, channel, description, song, likes, messages, shares }) => (
             <Video
