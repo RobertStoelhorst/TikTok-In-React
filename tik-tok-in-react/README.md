@@ -1,3 +1,13 @@
+
+# Material UI
+### `npm install @material-ui/core`
+### `npm install @material-ui/icons`
+
+# React
+### `npm install react-ticker` a react library that functions similar to HTML's <marqee>
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

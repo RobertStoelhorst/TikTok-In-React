@@ -1,8 +1,8 @@
 // import logo from './logo.svg';   // REMOVE THIS FILE
 import React from "react";
 import Video from "./Video";
-import '../App.css';
-// import '../index.css';
+// import './App.css';
+// import './index.css';
 
 
 function App() {
