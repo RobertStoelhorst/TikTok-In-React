@@ -1,6 +1,6 @@
 # :collision: :metal: TikTok with React :musical_note: :sparkles:
 
-## Game Hosted@ https://tik-tok-in-react.web.app/
+## Game Hosted@Firebase https://tik-tok-in-react.web.app/
 
 ## React
 
