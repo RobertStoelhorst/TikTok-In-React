@@ -21,7 +21,7 @@ function Video({ url, channel, description, song, likes, messages, shares }) {
     <div className="video">
       <video
         className="video_player"
-        loop
+        // loop
         onClick={onVideoPress}
         ref={videoRef}
         src={url}

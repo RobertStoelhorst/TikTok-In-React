@@ -12,7 +12,7 @@ a react library that functions similar to HTML's `<marqee>`
 
 #### `npm install firebase`
 
-## Material UI
+## Material UI https://material-ui.com/
 
 #### `npm install @material-ui/core`
 
@@ -27,6 +27,8 @@ In a nutshell, Material-UI is an open-source project that features React compone
 #### `Hacks and flexbox`
 
 learned some great stuff from the pros on this build but dam I have made a sweet layout based on the samsung s10+, really love the result and pretty simple css to do it
+
+this was a great build to start to understand React with Hooks useState useRef useEffect ect...
 
 <!--
 
