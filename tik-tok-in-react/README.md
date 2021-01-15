@@ -26,6 +26,8 @@ In a nutshell, Material-UI is an open-source project that features React compone
 
 #### `Hacks and flexbox`
 
+learned some great stuff from the pros on this build but dam I have made a sweet layout based on the samsung s10+, really love the result and pretty simple css to do it
+
 <!--
 
 # Getting Started with Create React App
