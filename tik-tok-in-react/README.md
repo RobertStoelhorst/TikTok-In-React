@@ -4,7 +4,7 @@
 ### `npm install @material-ui/icons`
 
 # React
-### `npm install react-ticker` a react library that functions similar to HTML's <marqee>
+### `npm install react-ticker` a react library that functions similar to HTML's `<marqee>`
 
 <!-- 
 
