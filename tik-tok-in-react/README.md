@@ -2,7 +2,7 @@
 
 ## App Hosted@Firebase
 
-### Click Here :arrow_right: https://tik-tok-in-react.web.app/ :arrow_left:
+### Click Here :arrow_right: :fire: https://tik-tok-in-react.web.app/ :fire: :arrow_left:
 
 ![](Images/TikTok.gif)
 
