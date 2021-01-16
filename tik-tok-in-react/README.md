@@ -1,6 +1,8 @@
 # :collision: :metal: TikTok with React :musical_note: :sparkles:
 
-## App Hosted@Firebase https://tik-tok-in-react.web.app/
+## App Hosted@Firebase
+
+### Click Here :arrow_right: https://tik-tok-in-react.web.app/ :arrow_left:
 
 ![](Images/TikTok.gif)
 
