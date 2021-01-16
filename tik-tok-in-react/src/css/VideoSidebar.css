@@ -2,7 +2,7 @@
   position: absolute;
   color: white;
   top: 48%;
-  right: 0px;
+  right: 5px;
 }
 
 @media screen and (max-width: 500px) {
@@ -10,7 +10,7 @@
     position: absolute;
     color: white;
     top: 42%;
-    right: 0px;
+    right: 5px;
   }
 }
 

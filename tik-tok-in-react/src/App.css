@@ -8,8 +8,11 @@ html {
   /* next two lines will center the div container rather than using margin auto */
   display: grid;
   place-items: center;
-  background-color: whitesmoke;
-  background-color: grey;
+  background-image: url("https://p7.hiclipart.com/preview/582/707/825/old-wood-texture.jpg");
+  background-size: cover;
+  /* background-repeat: no-repeat; */
+  /* background-color: whitesmoke; */
+  /* background-color: grey; */
 }
 
 .camera {
@@ -85,7 +88,7 @@ html {
   scroll-snap-type: y mandatory;
   border-style: solid;
   border-width: 12px 8px 17px 8px;
-  box-shadow: 4px 4px 4px 4px #111111;
+  box-shadow: 5px 5px 5px 5px #111111;
 }
 
 @media screen and (max-width: 500px) {
