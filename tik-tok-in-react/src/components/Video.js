@@ -1,6 +1,7 @@
 import React, { useRef, useState } from "react";
 import VideoFooter from "./VideoFooter";
 import VideoSidebar from "./VideoSidebar";
+
 import "../css/Video.css";
 
 function Video({ url, channel, description, song, likes, messages, shares }) {

@@ -1,20 +1,20 @@
 .videoFooter {
   position: relative;
   color: white;
-  bottom: 150px;
-  margin-left: 40px;
+  bottom: 180px;
+  margin-left: 15px;
   display: flex;
 }
 
-/* @media screen and (max-width: 600px) {
+@media screen and (max-width: 500px) {
   .videoFooter {
     position: absolute;
     color: white;
-    bottom: 300px;
-    margin-left: 40px;
+    bottom: 80px;
+    margin-left: 10px;
     display: flex;
   }
-} */
+}
 
 .videoFooter_text {
   flex: 1;
@@ -22,6 +22,13 @@
 
 .videoFooter_text > p {
   padding-bottom: 10px;
+  width: 90%;
+}
+
+@media screen and (max-width: 500px) {
+  .videoFooter_text > p {
+    width: 85%;
+  }
 }
 
 @keyframes spinTheRecord {
@@ -49,11 +56,24 @@
 .videoFooter_ticker > .ticker {
   height: fit-content;
   margin-left: 30px;
-  width: 60%;
+  width: 70%;
+}
+
+@media screen and (max-width: 500px) {
+  .videoFooter_ticker > .ticker {
+    margin-left: 25px;
+    /* width: 60%; */
+  }
 }
 
 .videoFooter_text > h3 {
   padding-bottom: 20px;
+}
+
+@media screen and (max-width: 500px) {
+  .videoFooter_text > h3 {
+    padding-bottom: 0px;
+  }
 }
 
 .videoFooter_ticker h1 {

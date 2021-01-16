@@ -2,6 +2,7 @@ import React, { useState, useEffect } from "react";
 import Video from "./Video";
 import db from "../firebase";
 import "../App.css";
+import ScreenControls from "./ScreenControls";
 
 function App() {
   const [videos, setVideos] = useState([]);
@@ -17,6 +18,9 @@ function App() {
     <div className="app">
       {/* BEM */}
       <div className="app_videos">
+        <div className="menu_bar">
+          <ScreenControls />
+        </div>
         <div class="camera">
           <div className="lense1">
             <div className="lense_eye1"></div>

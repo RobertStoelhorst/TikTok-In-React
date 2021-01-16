@@ -5,11 +5,11 @@ html {
 .app {
   /* color: white; */
   height: 100vh;
-  background-color: black;
   /* next two lines will center the div container rather than using margin auto */
   display: grid;
   place-items: center;
   background-color: whitesmoke;
+  background-color: grey;
 }
 
 .camera {
