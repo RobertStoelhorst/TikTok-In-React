@@ -4,6 +4,8 @@
 
 ### Click Here :arrow_right: :fire: https://tik-tok-in-react.web.app/ :fire: :arrow_left:
 
+##### Also check mobile view in developer tools
+
 ![](Images/TikTok.gif)
 
 ## React and Tech Stack
