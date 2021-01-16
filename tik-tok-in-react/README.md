@@ -2,6 +2,8 @@
 
 ## App Hosted@Firebase https://tik-tok-in-react.web.app/
 
+![](Images/shot-1.png)
+
 ## React and Tech Stack
 
 #### `npx create-react-app tik-tok-in-react`
