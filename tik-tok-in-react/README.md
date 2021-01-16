@@ -2,7 +2,7 @@
 
 ## App Hosted@Firebase https://tik-tok-in-react.web.app/
 
-![](Images/captured.gif)
+![](Images/TikTok.gif)
 
 ## React and Tech Stack
 
