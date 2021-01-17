@@ -36,6 +36,10 @@ learned some great stuff from the pros on this build but dam I have made a sweet
 
 this was a great build to start to understand React with Hooks useState useRef useEffect ect...
 
+## Next Steps
+
+I'm moving onto React Native app development and will look into replicating this project or something similar specifically to develop an Android/ios app.
+
 <!--
 
 # Getting Started with Create React App
