@@ -84,11 +84,10 @@ body {
   /* scroll the container */
   overflow: scroll;
   width: 400px;
-  /* max-width: 43%; */
   scroll-snap-type: y mandatory;
   border-style: solid;
   border-width: 12px 8px 17px 8px;
-  box-shadow: 5px 5px 5px 5px #111111;
+  box-shadow: 5px 5px 5px 5px #1b1b1b;
   background-color: #111111;
 }
 
